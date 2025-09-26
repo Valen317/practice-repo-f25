@@ -1,4 +1,12 @@
-# practice-repo-f25
-This is a class example we are using to practice.
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-This is a change that I made through GitHub.com I will pull it down 
+
+*This text is italic*
+_This text is also italic_
+
+This is just regular text 
